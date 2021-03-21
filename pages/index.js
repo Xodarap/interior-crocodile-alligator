@@ -13,7 +13,8 @@ export default function Home() {
         <h1 className={styles.title}>
           Interior crocodile alligator
         </h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/T1vlU5d5VNg?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/T1vlU5d5VNg?autoplay=1" 
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </main>
 
       <footer className={styles.footer}>
